@@ -2,5 +2,5 @@
 
 Repositório de teste
 
-Testando no primeiro repositório que estava privado. 
+Colocando desafios e exercicios de estudos diversos de logica e programação. 
 
